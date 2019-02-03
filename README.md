@@ -22,6 +22,12 @@ Material in the notebooks have, in part, been referenced and adapted from:
 - [Kevin Markham's Scikit Learn Notebooks](https://github.com/justmarkham/scikit-learn-videos)
 - [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) book.
 
+--- 
+
+We'll be using a gitter chat room to ask questions and chat: https://gitter.im/ANITA-astroinformatics-school/2019-school
+
+Notebooks will be updated with the answers and pushed to the repo at the end of each day.
+
 
 ## Cheatsheets
 
