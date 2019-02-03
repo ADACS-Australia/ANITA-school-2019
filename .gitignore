@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/solutions/.ipynb_checkpoints/
+notebooks/JPG/
+notebooks/data/images_transfer_learning/
+notebooks/reference/
+notebooks/2.2-using-convnets-with-small-datasets.ipynb
+notebooks/data/__pycache__/
