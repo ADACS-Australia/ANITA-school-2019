@@ -28,6 +28,10 @@ We'll be using a gitter chat room to ask questions and chat: https://gitter.im/A
 
 Notebooks will be updated with the answers and pushed to the repo at the end of each day.
 
+The saved models and histories for Part VII can be downloaded from this 
+[google folder](https://drive.google.com/open?id=1feZiF7oGVvlkS8OmpIIDk9qEev_7NQoe).
+Please save them into your notebooks/data folder.
+
 
 ## Cheatsheets
 
