@@ -1,5 +1,7 @@
 # ANITA astroinformatics summer school 2019 - "Rise of the machines"
 
+Feedback form: https://goo.gl/forms/jV5abBRxYcIVigFm1
+
 This workshop is build and adapted for astronomy from the introductory and intermediate ML 
 workshops prepared by the [Curtin Institute for Computation](http://computation.curtin.edu.au) (CIC).
 
