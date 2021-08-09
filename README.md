@@ -1,3 +1,5 @@
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
 # ANITA astroinformatics summer school 2019 - "Rise of the machines"
 
 Feedback form: https://goo.gl/forms/jV5abBRxYcIVigFm1
@@ -98,3 +100,4 @@ We will provide links and material that you can and should read.
 ## Licence
 
 This work is made available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
